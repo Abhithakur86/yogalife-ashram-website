@@ -672,10 +672,10 @@ export default function Home() {
 
                         <div className="mt-20 flex justify-center">
                           <div className="grid grid-cols-1 md:grid-cols-2 max-w-6xl w-full">
-
-
+                        
                             <div className="bg-[#b40800] w-full md:w-[450px] rounded-2xl flex justify-center items-end p-6 mx-auto">
                               <img
+                                src="orat.png"
                                 alt=""
                                 className="max-h-[300px] md:max-h-[500px] object-contain"
                               />
